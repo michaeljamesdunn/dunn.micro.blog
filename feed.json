@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://dunn.micro.blog/2024/12/26/currently-reading-letterman-by-jason/",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780062377241\">Letterman</a> by Jason Zinoman 📚</p>\n",
+				"content_text": "Currently reading: [Letterman](https://micro.blog/books/9780062377241) by Jason Zinoman 📚\n",
+				"date_published": "2024-12-26T20:46:14-05:00",
+				"url": "https://mikedunn.blog/2024/12/26/currently-reading-letterman-by-jason/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2024/12/25/finished-reading-keep-moving-by/",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781602862975\">Keep Moving</a> by Dick Van Dyke 📚</p>\n",
+				"content_text": "Finished reading: [Keep Moving](https://micro.blog/books/9781602862975) by Dick Van Dyke 📚\n",
+				"date_published": "2024-12-25T06:54:37-05:00",
+				"url": "https://mikedunn.blog/2024/12/25/finished-reading-keep-moving-by/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2024/12/24/lighting-the-way/",
+				
+				"content_html": "<p>Lighting the way.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lighting the way.\n\n<img src=\"uploads/2024/53799b70b5.jpg\" alt=\"Auto-generated description: A dimly lit suburban street at night is lined with glowing lanterns and framed by leafless trees and houses.\">\n",
+				"date_published": "2024-12-24T18:22:40-05:00",
+				"url": "https://mikedunn.blog/2024/12/24/lighting-the-way/"
+			},
+			{
 				"id": "http://dunn.micro.blog/2024/12/20/currently-reading-johnny-carson-by/",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780544217621\">Johnny Carson</a> by Henry Bushkin 📚</p>\n",
