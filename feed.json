@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://dunn.micro.blog/2025/01/01/hanging-out/",
+				
+				"content_html": "<p>Hanging out.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hanging out.\r\n\r\n<img src=\"uploads/2025/media.jpg\" alt=\"Auto-generated description: A plush giraffe toy is hanging from a tree branch beside a paved path in a park-like area with leafless trees.\">\n",
+				"date_published": "2025-01-01T12:38:21-05:00",
+				"url": "https://mikedunn.blog/2025/01/01/hanging-out/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/01/01/a-good-samaritan-or-a/",
+				
+				"content_html": "<p>A Good Samaritan (or bored kid) created a front porch for whatever is living in this tree.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A Good Samaritan (or bored kid) created a front porch for whatever is living in this tree.\n\n<img src=\"uploads/2025/9c01013c06.jpg\" alt=\"Auto-generated description: A miniature door with a ladder is nestled at the base of a tree in a woodland area.\">\n",
+				"date_published": "2025-01-01T12:28:46-05:00",
+				"url": "https://mikedunn.blog/2025/01/01/a-good-samaritan-or-a/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2024/12/31/sending-off-in-characteristic-gloomy/",
+				
+				"content_html": "<p>Sending off 2024 in characteristically gloomy and rainy fashion — so much rain that the annual submerging of the trails, typically an early-spring phenomenon, has already begun.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sending off 2024 in characteristically gloomy and rainy fashion — so much rain that the annual submerging of the trails, typically an early-spring phenomenon, has already begun.\n\n<img src=\"uploads/2024/image.jpg\" alt=\"Auto-generated description: A flooded path is flanked by leafless trees and muddy ground, creating a reflective surface.\">\n",
+				"date_published": "2024-12-31T14:29:59-05:00",
+				"url": "https://mikedunn.blog/2024/12/31/sending-off-in-characteristic-gloomy/"
+			},
+			{
 				"id": "http://dunn.micro.blog/2024/12/26/currently-reading-letterman-by-jason/",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780062377241\">Letterman</a> by Jason Zinoman 📚</p>\n",
