@@ -2,25 +2,105 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Mike Dunn",
 	"icon": "https://micro.blog/dunn/avatar.jpg",
-	"home_page_url": "https://mikedunn.blog/",
-	"feed_url": "https://mikedunn.blog/feed.json",
+	"home_page_url": "https://micro.mikedunn.blog/",
+	"feed_url": "https://micro.mikedunn.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://dunn.micro.blog/2025/01/22/january-for-fans-of-real/",
+				
+				"content_html": "<p>January 7, 2025. For fans of winter, this one hasn&rsquo;t disappointed.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "January 7, 2025. For fans of winter, this one hasn't disappointed.\n\n<img src=\"uploads/2025/-25-0073.jpg\" alt=\"Auto-generated description: A car with its windshield wipers raised is parked in a snowy residential area.\">\n",
+				"date_published": "2025-01-22T10:53:22-05:00",
+				"url": "https://micro.mikedunn.blog/2025/01/22/january-for-fans-of-real/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/01/22/october-picking-chestnuts-painfully-in/",
+				
+				"content_html": "<p>October 6, 2024. Picking prickly chestnuts in Mantua.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "October 6, 2024. Picking prickly chestnuts in Mantua.\n\n<img src=\"uploads/2025/-12-0084.jpg\" alt=\"Auto-generated description: A pair of shoes standing on the ground surrounded by spiky, round seed pods and dry grass.\">\n",
+				"date_published": "2025-01-22T10:38:08-05:00",
+				"url": "https://micro.mikedunn.blog/2025/01/22/october-picking-chestnuts-painfully-in/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/01/22/november-enjoying-santa-monica-beach/",
+				
+				"content_html": "<p>November 8, 2024. Enjoying Santa Monica Beach.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "November 8, 2024. Enjoying Santa Monica Beach.\n\n<img src=\"uploads/2025/-22-0075.jpg\" alt=\"Auto-generated description: A person wearing a hat sits on a sandy beach near a pier with a Ferris wheel and a roller coaster in the background.\">\n",
+				"date_published": "2025-01-22T10:35:34-05:00",
+				"url": "https://micro.mikedunn.blog/2025/01/22/november-enjoying-santa-monica-beach/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/01/22/july-our-neighborhood-fishing-pond/",
+				
+				"content_html": "<p>July 2024. Our neighborhood fishing pond being drained after discovery of the invasive round goby.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "July 2024. Our neighborhood fishing pond being drained after discovery of the invasive round goby.\n\n<img src=\"uploads/2025/5-0091.jpg\" alt=\"Auto-generated description: A pond surrounded by trees has a sign indicating it is closed for maintenance.\">\n",
+				"date_published": "2025-01-22T10:33:11-05:00",
+				"url": "https://micro.mikedunn.blog/2025/01/22/july-our-neighborhood-fishing-pond/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/01/22/accidentally-stumbled-on-this-post/",
+				
+				"content_html": "<p>Stumbled on <a href=\"https://make.wordpress.org/core/2023/10/16/changes-to-attachment-pages/\">this post</a> about WordPress disabling attachment pages. For blogs, thumbs up! The media inside a blog post <em>is</em> the attachment, so why did it also need a separate page with no context? And, WordPress has never consistently attached posts in the media library anyway.</p>\n",
+				"content_text": "Stumbled on [this post](https://make.wordpress.org/core/2023/10/16/changes-to-attachment-pages/) about WordPress disabling attachment pages. For blogs, thumbs up! The media inside a blog post _is_ the attachment, so why did it also need a separate page with no context? And, WordPress has never consistently attached posts in the media library anyway.\n",
+				"date_published": "2025-01-22T09:39:26-05:00",
+				"url": "https://micro.mikedunn.blog/2025/01/22/accidentally-stumbled-on-this-post/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/01/20/good-beat-by-deeelite-deeegroovy/",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=hqBewTjZLes\">Good Beat by Deee-Lite</a>. Deee-groovy! 🎵</p>\n",
+				"content_text": "[Good Beat by Deee-Lite](https://www.youtube.com/watch?v=hqBewTjZLes). Deee-groovy! 🎵\n",
+				"date_published": "2025-01-20T18:47:50-05:00",
+				"url": "https://micro.mikedunn.blog/2025/01/20/good-beat-by-deeelite-deeegroovy/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/01/20/signed-up-for-threads-against/",
+				
+				"content_html": "<p>Signed up for Threads against my better judgement. Half of the default feed is pictures of scantily clad teenage girls doing duck face selfies and the other half is people (bots?) posting things like &ldquo;react this I add you&rdquo;. I feel like I need a shower.</p>\n",
+				"content_text": "Signed up for Threads against my better judgement. Half of the default feed is pictures of scantily clad teenage girls doing duck face selfies and the other half is people (bots?) posting things like \"react this I add you\". I feel like I need a shower.\n",
+				"date_published": "2025-01-20T16:45:46-05:00",
+				"url": "https://micro.mikedunn.blog/2025/01/20/signed-up-for-threads-against/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/01/20/seven-degrees-the-sun-isnt/",
+				
+				"content_html": "<p>7°. The sun isn&rsquo;t contributing much heat outside, but inside, it&rsquo;s giving the furnace at least a <em>little</em> break.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "7°. The sun isn't contributing much heat outside, but inside, it's giving the furnace at least a _little_ break.\n\n<img src=\"https://cdn.uploads.micro.blog/193017/2025/img-5748.jpeg\" alt=\"Auto-generated description: A dog sits indoors looking out through a large glass door at a snowy backyard.\">\n",
+				"date_published": "2025-01-20T14:20:55-05:00",
+				"url": "https://micro.mikedunn.blog/2025/01/20/seven-degrees-the-sun-isnt/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/01/20/coco/",
+				"title": "Coco",
+				"content_html": "<p>A year ago today, this little girl left us. She was always bursting with personality and energy (and demands), and our house feels much emptier without her. (<a href=\"https://mikedunn.blog/2025/01/09/celebrating-gotcha-day-by-doing\">May</a> misses her too, although she won&rsquo;t admit it.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A year ago today, this little girl left us. She was always bursting with personality and energy (and demands), and our house feels much emptier without her. ([May](https://mikedunn.blog/2025/01/09/celebrating-gotcha-day-by-doing) misses her too, although she won't admit it.)\n\n<img src=\"https://cdn.uploads.micro.blog/193017/2025/img-0067.jpg\" alt=\"Auto-generated description: A small dog with white and brown fur lies comfortably on a bed.\">\n",
+				"date_published": "2025-01-20T00:00:00-05:00",
+				"url": "https://micro.mikedunn.blog/2025/01/20/coco/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/01/19/ice-ice-baby-the-hottest/",
+				
+				"content_html": "<p>&ldquo;Ice Ice Baby&rdquo;, the hottest jam on the planet when I was 12, is now a song you hear in a grocery store. 😭</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "\"Ice Ice Baby\", the hottest jam on the planet when I was 12, is now a song you hear in a grocery store. 😭\n\n<audio src=\"https://cdn.uploads.micro.blog/193017/2025/media.m4a\" controls=\"controls\" preload=\"metadata\"></audio>\n",
+				"date_published": "2025-01-19T18:05:21-05:00",
+				"url": "https://micro.mikedunn.blog/2025/01/19/ice-ice-baby-the-hottest/"
+			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/17/finished-reading-the-discovery-of/",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780446513852\">The Discovery of the Titanic</a> by Robert D. Ballard 📚 An interesting firsthand account of the 1985 discovery (a major media event those of us of a certain age remember well), and a reminder of what an accomplishment it was (for better or worse, depending on your take on subsequent visitors).</p>\n",
 				"content_text": "Finished reading: [The Discovery of the Titanic](https://micro.blog/books/9780446513852) by Robert D. Ballard 📚 An interesting firsthand account of the 1985 discovery (a major media event those of us of a certain age remember well), and a reminder of what an accomplishment it was (for better or worse, depending on your take on subsequent visitors).\n",
 				"date_published": "2025-01-17T12:16:47-05:00",
-				"url": "https://mikedunn.blog/2025/01/17/finished-reading-the-discovery-of/"
+				"url": "https://micro.mikedunn.blog/2025/01/17/finished-reading-the-discovery-of/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/13/in-morgan-spurlock-released-a/",
 				
 				"content_html": "<p>Stopped by the former Wendy&rsquo;s restaurant here in Columbus that briefly served as &ldquo;Holy Chicken&rdquo; for Morgan Spurlock&rsquo;s <a href=\"https://www.youtube.com/watch?v=dSyicDf9UvI\">2017 sequel to <em>Super Size Me</em></a>. Over seven years later, it&rsquo;s still looking for a tenant (and still has the green paint he added to give it a deceptively &ldquo;healthy&rdquo; look).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stopped by the former Wendy's restaurant here in Columbus that briefly served as \"Holy Chicken\" for Morgan Spurlock's [2017 sequel to _Super Size Me_](https://www.youtube.com/watch?v=dSyicDf9UvI). Over seven years later, it's still looking for a tenant (and still has the green paint he added to give it a deceptively \"healthy\" look).\n\n<img src=\"uploads/2025/a077dedbe7.jpg\" alt=\"Auto-generated description: A snow-covered landscape features a building with a green roof and a For Lease sign.\">\n",
+				"content_text": "Stopped by the former Wendy's restaurant here in Columbus that briefly served as \"Holy Chicken\" for Morgan Spurlock's [2017 sequel to _Super Size Me_](https://www.youtube.com/watch?v=dSyicDf9UvI). Over seven years later, it's still looking for a tenant (and still has the green paint he added to give it a deceptively \"healthy\" look).\n\n<img src=\"https://cdn.uploads.micro.blog/193017/2025/a077dedbe7.jpg\" alt=\"Auto-generated description: A snow-covered landscape features a building with a green roof and a For Lease sign.\">\n",
 				"date_published": "2025-01-13T17:57:50-05:00",
-				"url": "https://mikedunn.blog/2025/01/13/in-morgan-spurlock-released-a/"
+				"url": "https://micro.mikedunn.blog/2025/01/13/in-morgan-spurlock-released-a/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/11/currently-reading-growing-up-brady/",
@@ -28,7 +108,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780061091223\">Growing Up Brady</a> by Barry Williams 📚 What can I say, I have a soft spot for The Brady Bunch.</p>\n",
 				"content_text": "Currently reading: [Growing Up Brady](https://micro.blog/books/9780061091223) by Barry Williams 📚 What can I say, I have a soft spot for The Brady Bunch.\n",
 				"date_published": "2025-01-11T13:39:24-05:00",
-				"url": "https://mikedunn.blog/2025/01/11/currently-reading-growing-up-brady/"
+				"url": "https://micro.mikedunn.blog/2025/01/11/currently-reading-growing-up-brady/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/10/playing-with-apples-image-playground/",
@@ -36,7 +116,7 @@
 				"content_html": "<p>Playing with Apple’s Image Playground app using photos of ourselves. The animation-style images of my wife are actually quite good (even she thinks so!) Our dogs came out cute but not great likenesses. The ones of me are horrifying.</p>\n",
 				"content_text": "Playing with Apple’s Image Playground app using photos of ourselves. The animation-style images of my wife are actually quite good (even she thinks so!) Our dogs came out cute but not great likenesses. The ones of me are horrifying.\n",
 				"date_published": "2025-01-10T22:23:00-05:00",
-				"url": "https://mikedunn.blog/2025/01/10/playing-with-apples-image-playground/"
+				"url": "https://micro.mikedunn.blog/2025/01/10/playing-with-apples-image-playground/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/10/fitting-too-cold-in-the/",
@@ -44,7 +124,7 @@
 				"content_html": "<p>Fitting. <a href=\"https://www.youtube.com/watch?v=Xs9qvkyoYqM\">&ldquo;Too Cold In The Winter&rdquo; by Cry of Love</a> 🎵</p>\n",
 				"content_text": "Fitting. [\"Too Cold In The Winter\" by Cry of Love](https://www.youtube.com/watch?v=Xs9qvkyoYqM) 🎵\n",
 				"date_published": "2025-01-10T15:08:10-05:00",
-				"url": "https://mikedunn.blog/2025/01/10/fitting-too-cold-in-the/"
+				"url": "https://micro.mikedunn.blog/2025/01/10/fitting-too-cold-in-the/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/09/celebrating-gotcha-day-by-doing/",
@@ -52,7 +132,7 @@
 				"content_html": "<p>Celebrating Gotcha Day with a favorite pastime.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Celebrating Gotcha Day with a favorite pastime.\n\n<img src=\"https://cdn.uploads.micro.blog/193017/2025/38df3f090e.jpg\" alt=\"Auto-generated description: A white dog is sleeping on a cushioned chair with a gray blanket, surrounded by shoes in a sunlit room.\">\n",
 				"date_published": "2025-01-09T12:55:02-05:00",
-				"url": "https://mikedunn.blog/2025/01/09/celebrating-gotcha-day-by-doing/"
+				"url": "https://micro.mikedunn.blog/2025/01/09/celebrating-gotcha-day-by-doing/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/07/forcing-myself-to-go-on/",
@@ -60,7 +140,7 @@
 				"content_html": "<p>Forcing myself to go on a photo walk in this balmy 18-degree weather. It has taken me so long to use the roll of film in this camera that it begins with summery views of Santa Monica Beach during our last trip and ends with this.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Forcing myself to go on a photo walk in this balmy 18-degree weather. It has taken me so long to use the roll of film in this camera that it begins with summery views of Santa Monica Beach during our last trip and ends with this.\n\n<img src=\"https://cdn.uploads.micro.blog/193017/2025/5ef644904b.jpg\" alt=\"Auto-generated description: A hand holding a vintage camera is capturing a snowy, tree-lined path.\">\n",
 				"date_published": "2025-01-07T14:42:08-05:00",
-				"url": "https://mikedunn.blog/2025/01/07/forcing-myself-to-go-on/"
+				"url": "https://micro.mikedunn.blog/2025/01/07/forcing-myself-to-go-on/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/06/in-todays-dispatch-from-arsenal/",
@@ -68,7 +148,7 @@
 				"content_html": "<p>In today&rsquo;s Columbus Dispatch: <a href=\"https://www.dispatch.com/story/news/education/2025/01/06/fort-hayes-students-preserving-history-of-the-fort-turned-school/76924542007\">&ldquo;From arsenal to education: Fort Hayes students work to preserve military complex&rsquo;s history&rdquo;</a>. Always love hearing about the activities of students at my high school alma mater (which was an active military facility from the Civil War until 2009). Love <a href=\"https://old.mikedunn.blog/18067\">visiting</a>, too!</p>\n",
 				"content_text": "In today's Columbus Dispatch: [\"From arsenal to education: Fort Hayes students work to preserve military complex's history\"](https://www.dispatch.com/story/news/education/2025/01/06/fort-hayes-students-preserving-history-of-the-fort-turned-school/76924542007). Always love hearing about the activities of students at my high school alma mater (which was an active military facility from the Civil War until 2009). Love [visiting](https://old.mikedunn.blog/18067), too!\n",
 				"date_published": "2025-01-06T11:33:27-05:00",
-				"url": "https://mikedunn.blog/2025/01/06/in-todays-dispatch-from-arsenal/"
+				"url": "https://micro.mikedunn.blog/2025/01/06/in-todays-dispatch-from-arsenal/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/06/the-amount-of-panic-these/",
@@ -76,7 +156,7 @@
 				"content_html": "<p>The amount of panic these days over a few inches of snow is just hilarious to me. No ice, no subzero wind chills, just a few inches of snow. School and business closings galore.</p>\n",
 				"content_text": "The amount of panic these days over a few inches of snow is just hilarious to me. No ice, no subzero wind chills, just a few inches of snow. School and business closings galore.\n",
 				"date_published": "2025-01-06T07:16:40-05:00",
-				"url": "https://mikedunn.blog/2025/01/06/the-amount-of-panic-these/"
+				"url": "https://micro.mikedunn.blog/2025/01/06/the-amount-of-panic-these/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/05/finished-reading-letterman-by-jason/",
@@ -84,7 +164,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062377241\">Letterman</a> by Jason Zinoman 📚 A bit of a slog to get through this. A very detailed deconstruction of Letterman&rsquo;s career, although it went a little too deep into the jockeying and infighting among his writing staff. It did remind me of something I loved about <em>Late Night</em>: Dave <a href=\"https://tenor.com/view/dave-letterman-viewer-mail-flip-a-card-letter-flipping-light-night-with-gif-26020347\">flinging blue cards through the fake window behind him</a>.</p>\n",
 				"content_text": "Finished reading: [Letterman](https://micro.blog/books/9780062377241) by Jason Zinoman 📚 A bit of a slog to get through this. A very detailed deconstruction of Letterman's career, although it went a little too deep into the jockeying and infighting among his writing staff. It did remind me of something I loved about _Late Night_: Dave [flinging blue cards through the fake window behind him](https://tenor.com/view/dave-letterman-viewer-mail-flip-a-card-letter-flipping-light-night-with-gif-26020347).\n",
 				"date_published": "2025-01-05T16:49:44-05:00",
-				"url": "https://mikedunn.blog/2025/01/05/finished-reading-letterman-by-jason/"
+				"url": "https://micro.mikedunn.blog/2025/01/05/finished-reading-letterman-by-jason/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/04/i-remember-watching-the-first/",
@@ -92,7 +172,7 @@
 				"content_html": "<p>I remember watching the first live episode of the ‘90s sitcom <em>Roc</em>, but I had forgotten that they did the entire second season live, too. The cast is so good, it’s hard to believe those episodes were all done in one take.</p>\n",
 				"content_text": "I remember watching the first live episode of the ‘90s sitcom _Roc_, but I had forgotten that they did the entire second season live, too. The cast is so good, it’s hard to believe those episodes were all done in one take.\n",
 				"date_published": "2025-01-04T22:50:58-05:00",
-				"url": "https://mikedunn.blog/2025/01/04/i-remember-watching-the-first/"
+				"url": "https://micro.mikedunn.blog/2025/01/04/i-remember-watching-the-first/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/04/currently-reading-the-discovery-of/",
@@ -100,7 +180,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780446513852\">The Discovery of the Titanic</a> by Robert D. Ballard 📚</p>\n",
 				"content_text": "Currently reading: [The Discovery of the Titanic](https://micro.blog/books/9780446513852) by Robert D. Ballard 📚\n",
 				"date_published": "2025-01-04T15:34:27-05:00",
-				"url": "https://mikedunn.blog/2025/01/04/currently-reading-the-discovery-of/"
+				"url": "https://micro.mikedunn.blog/2025/01/04/currently-reading-the-discovery-of/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/04/weekend-vibes-black-mags-by/",
@@ -108,7 +188,7 @@
 				"content_html": "<p>Weekend vibes: <a href=\"https://m.youtube.com/watch?v=YoIKm_EnJz4\">Black Mags by The Cool Kids</a> 🎵</p>\n",
 				"content_text": "Weekend vibes: [Black Mags by The Cool Kids](https://m.youtube.com/watch?v=YoIKm_EnJz4) 🎵\n",
 				"date_published": "2025-01-04T10:30:06-05:00",
-				"url": "https://mikedunn.blog/2025/01/04/weekend-vibes-black-mags-by/"
+				"url": "https://micro.mikedunn.blog/2025/01/04/weekend-vibes-black-mags-by/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/01/hanging-out/",
@@ -116,7 +196,7 @@
 				"content_html": "<p>Hanging out.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Hanging out.\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/193017/2025/media.jpg\" alt=\"Auto-generated description: A plush giraffe toy is hanging from a tree branch beside a paved path in a park-like area with leafless trees.\">\n",
 				"date_published": "2025-01-01T12:38:21-05:00",
-				"url": "https://mikedunn.blog/2025/01/01/hanging-out/"
+				"url": "https://micro.mikedunn.blog/2025/01/01/hanging-out/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/01/01/a-good-samaritan-or-a/",
@@ -124,7 +204,7 @@
 				"content_html": "<p>A Good Samaritan (or bored kid) created a front porch for whatever is living in this tree.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "A Good Samaritan (or bored kid) created a front porch for whatever is living in this tree.\n\n<img src=\"https://cdn.uploads.micro.blog/193017/2025/9c01013c06.jpg\" alt=\"Auto-generated description: A miniature door with a ladder is nestled at the base of a tree in a woodland area.\">\n",
 				"date_published": "2025-01-01T12:28:46-05:00",
-				"url": "https://mikedunn.blog/2025/01/01/a-good-samaritan-or-a/"
+				"url": "https://micro.mikedunn.blog/2025/01/01/a-good-samaritan-or-a/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2024/12/31/sending-off-in-characteristic-gloomy/",
@@ -132,7 +212,7 @@
 				"content_html": "<p>Sending off 2024 in characteristically gloomy and rainy fashion — so much rain that the annual submerging of the trails, typically an early-spring phenomenon, has already begun.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Sending off 2024 in characteristically gloomy and rainy fashion — so much rain that the annual submerging of the trails, typically an early-spring phenomenon, has already begun.\n\n<img src=\"https://cdn.uploads.micro.blog/193017/2024/image.jpg\" alt=\"Auto-generated description: A flooded path is flanked by leafless trees and muddy ground, creating a reflective surface.\">\n",
 				"date_published": "2024-12-31T14:29:59-05:00",
-				"url": "https://mikedunn.blog/2024/12/31/sending-off-in-characteristic-gloomy/"
+				"url": "https://micro.mikedunn.blog/2024/12/31/sending-off-in-characteristic-gloomy/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2024/12/26/currently-reading-letterman-by-jason/",
@@ -140,7 +220,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780062377241\">Letterman</a> by Jason Zinoman 📚</p>\n",
 				"content_text": "Currently reading: [Letterman](https://micro.blog/books/9780062377241) by Jason Zinoman 📚\n",
 				"date_published": "2024-12-26T20:46:14-05:00",
-				"url": "https://mikedunn.blog/2024/12/26/currently-reading-letterman-by-jason/"
+				"url": "https://micro.mikedunn.blog/2024/12/26/currently-reading-letterman-by-jason/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2024/12/25/finished-reading-keep-moving-by/",
@@ -148,7 +228,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781602862975\">Keep Moving</a> by Dick Van Dyke 📚</p>\n",
 				"content_text": "Finished reading: [Keep Moving](https://micro.blog/books/9781602862975) by Dick Van Dyke 📚\n",
 				"date_published": "2024-12-25T06:54:37-05:00",
-				"url": "https://mikedunn.blog/2024/12/25/finished-reading-keep-moving-by/"
+				"url": "https://micro.mikedunn.blog/2024/12/25/finished-reading-keep-moving-by/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2024/12/24/lighting-the-way/",
@@ -156,7 +236,7 @@
 				"content_html": "<p>Lighting the way.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Lighting the way.\n\n<img src=\"https://cdn.uploads.micro.blog/193017/2024/53799b70b5.jpg\" alt=\"Auto-generated description: A dimly lit suburban street at night is lined with glowing lanterns and framed by leafless trees and houses.\">\n",
 				"date_published": "2024-12-24T18:22:40-05:00",
-				"url": "https://mikedunn.blog/2024/12/24/lighting-the-way/"
+				"url": "https://micro.mikedunn.blog/2024/12/24/lighting-the-way/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2024/12/20/currently-reading-johnny-carson-by/",
@@ -164,7 +244,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780544217621\">Johnny Carson</a> by Henry Bushkin 📚</p>\n",
 				"content_text": "Currently reading: [Johnny Carson](https://micro.blog/books/9780544217621) by Henry Bushkin 📚\n",
 				"date_published": "2024-12-20T15:53:40-05:00",
-				"url": "https://mikedunn.blog/2024/12/20/currently-reading-johnny-carson-by/"
+				"url": "https://micro.mikedunn.blog/2024/12/20/currently-reading-johnny-carson-by/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2024/12/20/currently-reading-keep-moving-by/",
@@ -172,7 +252,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781602862975\">Keep Moving</a> by Dick Van Dyke 📚</p>\n",
 				"content_text": "Currently reading: [Keep Moving](https://micro.blog/books/9781602862975) by Dick Van Dyke 📚\n",
 				"date_published": "2024-12-20T09:38:34-05:00",
-				"url": "https://mikedunn.blog/2024/12/20/currently-reading-keep-moving-by/"
+				"url": "https://micro.mikedunn.blog/2024/12/20/currently-reading-keep-moving-by/"
 			}
 	]
 }
