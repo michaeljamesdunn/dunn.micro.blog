@@ -7,10 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://dunn.micro.blog/2025/04/06/sometimes-ill-go-into-half/",
+				
+				"content_html": "<p>Sometimes I&rsquo;ll go into Half Price Books and nothing catches my eye. Today was not one of those times. (That 45 of &ldquo;That&rsquo;s What Friends Are For&rdquo; is one of the first records I remember buying with my allowance money. Major nostalgia vibes.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sometimes I'll go into Half Price Books and nothing catches my eye. Today was not one of those times. (That 45 of \"That's What Friends Are For\" is one of the first records I remember buying with my allowance money. Major nostalgia vibes.)\r\n\r\n<img src=\"uploads/2025/ae8e39ed33-m.jpg\" alt=\"Auto-generated description: Vinyl records and CDs of Peter Cetera's Glory of Love, Dionne Warwick's That's What Friends Are For, Shai's If I Ever Fall in Love, and House of Pain's Jump Around are displayed.\">\n",
+				"date_published": "2025-04-06T18:35:01-04:00",
+				"url": "https://micro.dunn.blog/2025/04/06/sometimes-ill-go-into-half/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/04/05/rain-keeps-falling-rain-keeps/",
+				
+				"content_html": "<p>&ldquo;Rain keeps falling, rain keeps falling down, down, down, down&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Rain keeps falling, rain keeps falling down, down, down, down\"\r\n\r\n<img src=\"uploads/2025/img-6190-m.jpg\" alt=\"Auto-generated description: A submerged picnic table is surrounded by floodwaters in a forested area.\">\r\n",
+				"date_published": "2025-04-05T17:17:36-04:00",
+				"url": "https://micro.dunn.blog/2025/04/05/rain-keeps-falling-rain-keeps/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/04/02/a-rainy-sky-over-downtown/",
+				
+				"content_html": "<p>A rainy sky over downtown Columbus and 315.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A rainy sky over downtown Columbus and 315.\n\n<img src=\"uploads/2025/76cd1a2d88-m.jpg\" alt=\"Raindrops cover a window, with a blurry cityscape visible in the background.\">\n",
+				"date_published": "2025-04-02T10:53:51-04:00",
+				"url": "https://micro.dunn.blog/2025/04/02/a-rainy-sky-over-downtown/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/04/02/captain-caveman-shouting-his-name/",
+				
+				"content_html": "<p>Captain Caveman shouting his name never struck me as funny when I was a kid but now I think it’s hilarious.</p>\n",
+				"content_text": "Captain Caveman shouting his name never struck me as funny when I was a kid but now I think it’s hilarious.\n",
+				"date_published": "2025-04-02T07:59:17-04:00",
+				"url": "https://micro.dunn.blog/2025/04/02/captain-caveman-shouting-his-name/"
+			},
+			{
 				"id": "http://dunn.micro.blog/2025/04/01/its-a-momentous-day-canon/",
 				
-				"content_html": "<p>It&rsquo;s a momentous day. Canon has finally released a version of the <a href=\"https://www.usa.canon.com/support/eos-utilities\">EOS Utility</a> that actually works on macOS Sequoia, only 10 months after the first developer beta of Sequoia was available. 🤪</p>\n",
-				"content_text": "It's a momentous day. Canon has finally released a version of the [EOS Utility](https://www.usa.canon.com/support/eos-utilities) that actually works on macOS Sequoia, only 10 months after the first developer beta of Sequoia was available. 🤪\n",
+				"content_html": "<p>It&rsquo;s a momentous day. Canon has finally released a version of the <a href=\"https://www.usa.canon.com/support/eos-utilities\">EOS Utility</a> that actually works on macOS Sequoia, only 10 months after the first developer beta of Sequoia became available. 🤪</p>\n",
+				"content_text": "It's a momentous day. Canon has finally released a version of the [EOS Utility](https://www.usa.canon.com/support/eos-utilities) that actually works on macOS Sequoia, only 10 months after the first developer beta of Sequoia became available. 🤪\n",
 				"date_published": "2025-04-01T10:11:02-04:00",
 				"url": "https://micro.dunn.blog/2025/04/01/its-a-momentous-day-canon/"
 			},
@@ -34,7 +66,7 @@
 				"id": "http://dunn.micro.blog/2025/03/29/this-chocolate-shake-hit-the/",
 				
 				"content_html": "<p>I can&rsquo;t overstate how perfectly this chocolate shake hit the spot today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I can't overstate how perfectly this chocolate shake hit the spot today.\n\n<img src=\"uploads/2025/234c610f81-m.jpg\" alt=\"Auto-generated description: A large cup with a red straw from Graeter's is resting on a round outdoor table in front of a building with a red awning.\">\n",
+				"content_text": "I can't overstate how perfectly this chocolate shake hit the spot today.\n\n<img src=\"https://cdn.uploads.micro.blog/193017/2025/234c610f81-m.jpg\" alt=\"Auto-generated description: A large cup with a red straw from Graeter's is resting on a round outdoor table in front of a building with a red awning.\">\n",
 				"date_published": "2025-03-29T18:23:26-04:00",
 				"url": "https://micro.dunn.blog/2025/03/29/this-chocolate-shake-hit-the/"
 			},
@@ -42,17 +74,9 @@
 				"id": "http://dunn.micro.blog/2025/03/28/warm-breezes-and-windows-open/",
 				
 				"content_html": "<p>Warm breezes and open windows, finally.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Warm breezes and open windows, finally.\n\n<img src=\"uploads/2025/796e62c977-m.jpg\" alt=\"Auto-generated description: A dog with fluffy ears looks out through a screen at a blurred, grassy landscape and houses in the distance.\">\n",
+				"content_text": "Warm breezes and open windows, finally.\n\n<img src=\"https://cdn.uploads.micro.blog/193017/2025/796e62c977-m.jpg\" alt=\"Auto-generated description: A dog with fluffy ears looks out through a screen at a blurred, grassy landscape and houses in the distance.\">\n",
 				"date_published": "2025-03-28T18:13:42-04:00",
 				"url": "https://micro.dunn.blog/2025/03/28/warm-breezes-and-windows-open/"
-			},
-			{
-				"id": "http://dunn.micro.blog/2025/03/28/currently-reading-i-got-a/",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780306821219\">I Got a Name</a> by Ingrid Croce 📚</p>\n",
-				"content_text": "Currently reading: [I Got a Name](https://micro.blog/books/9780306821219) by Ingrid Croce 📚\n",
-				"date_published": "2025-03-28T18:06:14-04:00",
-				"url": "https://micro.dunn.blog/2025/03/28/currently-reading-i-got-a/"
 			},
 			{
 				"id": "http://dunn.micro.blog/2025/03/25/spent-a-little-time-today/",
