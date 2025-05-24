@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://dunn.micro.blog/2025/05/24/such-a-strange-feeling-when/",
+				
+				"content_html": "<p>Such a strange feeling when remnants of your distant past, which should be long gone, still exist. Hope’s was our regular barbershop in my early teenage years. Tom Hope has long since retired, and the shop has been home to various Mexican eateries since then—but the signage remains.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Such a strange feeling when remnants of your distant past, which should be long gone, still exist. Hope’s was our regular barbershop in my early teenage years. Tom Hope has long since retired, and the shop has been home to various Mexican eateries since then—but the signage remains.\n\n<img src=\"uploads/2025/8bc59ca0d3.jpg\" alt=\"Auto-generated description: A bright, cloudy sky frames a street scene with signs for a barber shop and a house in the background.\">\n",
+				"date_published": "2025-05-24T14:04:55-04:00",
+				"url": "https://micro.mikedunn.blog/2025/05/24/such-a-strange-feeling-when/"
+			},
+			{
+				"id": "http://dunn.micro.blog/2025/05/19/torn-between-hosting-my-wordpress/",
+				
+				"content_html": "<p>Torn between hosting my WordPress blog in AWS (where it has been since EC2 was a new thing) and WordPress.com. (Yeah, I know, the correct answer is &ldquo;neither, Micro.blog&rdquo;. I&rsquo;ll get there, but because it&rsquo;s a native WordPress blog, I like to keep it in WordPress for now.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Torn between hosting my WordPress blog in AWS (where it has been since EC2 was a new thing) and WordPress.com. (Yeah, I know, the correct answer is \"neither, Micro.blog\". I'll get there, but because it's a native WordPress blog, I like to keep it in WordPress for now.)\n\n<img src=\"uploads/2025/01e5a81550.jpg\" alt=\"Auto-generated description: A user interface for a WordPress account shows details like the user name, email, WordPress version, and a notification about $1,134 in upgrade credits.\">\n",
+				"date_published": "2025-05-19T14:02:02-04:00",
+				"url": "https://micro.mikedunn.blog/2025/05/19/torn-between-hosting-my-wordpress/"
+			},
+			{
 				"id": "http://dunn.micro.blog/2025/05/18/140239/",
 				
-				"content_html": "<p><a href=\"https://g.co/kgs/nzqXm4u\">Scioto Audubon Metro Park</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Scioto Audubon Metro Park](https://g.co/kgs/nzqXm4u)\n\n<img src=\"uploads/2025/9ee1ae2724.jpg\" alt=\"Auto-generated description: A person wearing a camera around their neck is climbing a rope net structure with a wooden beam, seen from a first-person perspective.\">\n",
+				"content_html": "<p>Scioto Audubon Metro Park.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Scioto Audubon Metro Park.\n\n<img src=\"uploads/2025/9ee1ae2724.jpg\" alt=\"Auto-generated description: A person wearing a camera around their neck is climbing a rope net structure with a wooden beam, seen from a first-person perspective.\">\n",
 				"date_published": "2025-05-18T14:05:57-04:00",
 				"url": "https://micro.mikedunn.blog/2025/05/18/140239/"
 			},
@@ -34,7 +50,7 @@
 				"id": "http://dunn.micro.blog/2025/05/09/geese-making-the-best-of/",
 				
 				"content_html": "<p>Geese making the best of the floods.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Geese making the best of the floods.\r\n\r\n<img src=\"uploads/2025/0-0553.jpg\" alt=\"Auto-generated description: Two ducks swim on a reflective body of water in a park with a cloudy sky and trees in the background.\">\n",
+				"content_text": "Geese making the best of the floods.\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/193017/2025/0-0553.jpg\" alt=\"Auto-generated description: Two ducks swim on a reflective body of water in a park with a cloudy sky and trees in the background.\">\n",
 				"date_published": "2025-05-09T14:42:53-04:00",
 				"url": "https://micro.mikedunn.blog/2025/05/09/geese-making-the-best-of/"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://dunn.micro.blog/2025/05/09/on-the-road-again/",
 				
 				"content_html": "<p>On the road again.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On the road again.\r\n\r\n<img src=\"uploads/2025/-15-0538.jpg\" alt=\"Auto-generated description: A scenic view of fields and trees is visible through the window of a moving car.\">\n",
+				"content_text": "On the road again.\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/193017/2025/-15-0538.jpg\" alt=\"Auto-generated description: A scenic view of fields and trees is visible through the window of a moving car.\">\n",
 				"date_published": "2025-05-09T14:40:50-04:00",
 				"url": "https://micro.mikedunn.blog/2025/05/09/on-the-road-again/"
 			},
